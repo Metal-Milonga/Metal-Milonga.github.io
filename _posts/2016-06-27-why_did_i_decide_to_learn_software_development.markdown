@@ -5,7 +5,7 @@ date:   2016-06-27 14:20:00 +0000
 ---
 
 
-I have worked in UNIX/Linux System Administration for over 20 years now.  I have always loved writing shell scripts, and I [have gotten pretty good at it](http://https://github.com/Metal-Milonga/BCV-Backup-Scripts).  I dabbled a bit with Perl and Python, but in these later years the opportunity to write scripts has been lacking.  So, my memory of Perl and Python syntax is hard to recall on demand.  I spend more time looking things up and troubleshooting, than actually making progress on my script.
+I have worked in UNIX/Linux System Administration for over 20 years now.  I have always loved writing shell scripts, and I [have gotten pretty good at it](https://github.com/Metal-Milonga/BCV-Backup-Scripts).  I dabbled a bit with Perl and Python, but in these later years the opportunity to write scripts has been lacking.  So, my memory of Perl and Python syntax is hard to recall on demand.  I spend more time looking things up and troubleshooting, than actually making progress on my script.
 
 There are several reasons I decided to try may hand with a formalized software development program.
 1. Many years ago, one of my mentors said that many SysAdmins are just frustrated programmers.  That really resonatted with me, and my love of scripting.
