@@ -17,3 +17,6 @@ There are several reasons I decided to try may hand with a formalized software d
 The one thing I love about scripting/programming is the marriage of mathmatical logic and creativity.  My family things I am crazy when I tell them that math and code can be beautiful both in a viually pleasing way, but also beautiful in a logical sense as well.
 
 I think that about sums up why I decided to dive into learning software development.
+
+--
+Dave
